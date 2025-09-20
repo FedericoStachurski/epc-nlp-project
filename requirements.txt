@@ -1,0 +1,12 @@
+pandas
+numpy
+scikit-learn
+matplotlib
+seaborn
+nltk
+spacy
+transformers
+sqlalchemy
+psycopg2
+geopandas
+streamlit
