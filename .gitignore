@@ -6,3 +6,5 @@ __pycache__/
 .npl_env
 .venv
 data/
+models/
+
